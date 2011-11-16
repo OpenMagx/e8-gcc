@@ -1,0 +1,2 @@
+#!/bin/sh
+distcc /mnt/hd/e8-gcc/bin/arm-linux-gnueabi-g++ "$@"
